@@ -10,6 +10,6 @@
 
 <p align="center">
 
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=lmag" />
+<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=lmag" />
 
 </p>
