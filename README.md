@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning [NF 096](https://marque-nf.com/categories/equipements-de-chantier/nf-equipements-de-chantiernf096/)
 - 👯 I’m looking to collaborate on SupplyChain, Information System, Quality, Health and Safety
 - 🤔 I’m looking for help with 
-- 💬 Ask me about [Dolibarr](https://github.com/dolibarr), [WordPress](https://wordpress.org/)
+- 💬 Ask me about [DigiRisk](https://www.digirisk.com/), [Evarisk.com](https://evarisk.com/) [Dolibarr](https://github.com/dolibarr), [WordPress](https://wordpress.org/)
 - 📫 How to reach me: [evarisk.com](https://evarisk.com/rdv-evarisk-laurent-magnin)
 - ⚡ Fun fact: ...
 
