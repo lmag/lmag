@@ -9,9 +9,9 @@
 - ⚡ Fun fact: ...
 
 ### Open-Source project I work on
-- [dolibarr.org](https://www.dolibarr.org/)
+- [Dolibarr.org](https://www.dolibarr.org/)
 - [GIF UI/UX](https://github.com/orgs/Dolibarr/projects/6)
-- [wordpress.org](https://wordpress.org/)
+- [WordPress.org](https://wordpress.org/)
 
 ### Projects completed
 - 🌱 I’m currently learning [NF 096](https://marque-nf.com/categories/equipements-de-chantier/nf-equipements-de-chantiernf096/)
