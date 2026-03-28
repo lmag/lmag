@@ -1,5 +1,6 @@
 # 🚀 Laurent Magnin | Co-founder @Eoxia & @Evarisk.
-Dolibarr & WordPress Specialist. Building open-source tools to streamline corporate compliance and workplace safety. 🛠️💻
+## Dolibarr & WordPress Specialist. 
+Building open-source tools to streamline corporate compliance and workplace safety. 🛠️💻
 
 - 💬 Ask me about [DigiRisk](https://www.digirisk.com/), [Evarisk](https://evarisk.com/), [Igital.academy](https://www.igital.academy/), [Dolibarr](https://github.com/dolibarr), [WordPress](https://wordpress.org/).
 - 🔭 I’m always working on ([Evarisk](https://github.com/evarisk), [Eoxia](https://github.com/eoxia))
@@ -14,12 +15,11 @@ Dolibarr & WordPress Specialist. Building open-source tools to streamline corpor
 ---
 
 ### 🛠 Tech Stack & Ecosystem
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Dolibarr-ERP%20%26%20CRM-eb9d00?style=for-the-badge" height="28" /> <img src="https://img.shields.io/badge/Open%20Source-%23121011.svg?style=for-the-badge&logo=open-source&logoColor=white" height="28" />
-
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%26%20CRM-eb9d00?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open%20Source-%23121011.svg?style=for-the-badge&logo=open-source&logoColor=white)
 ---
 
 📍 Based in Montpellier, South of France ☀️
-
+---
 ### 📊 My GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmag&show_icons=true&theme=radical" alt="Stats" height="150" />
