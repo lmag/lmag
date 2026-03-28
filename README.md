@@ -14,10 +14,7 @@ Dolibarr & WordPress Specialist. Building open-source tools to streamline corpor
 ---
 
 ### 🛠 Tech Stack & Ecosystem
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%26%20CRM-eb9d00?style=for-the-badge) 
-![Open Source](https://img.shields.io/badge/Open%20Source-%23121011.svg?style=for-the-badge&logo=open-source&logoColor=white)
+<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white" height="28" /> <img src="https://img.shields.io/badge/Dolibarr-ERP%20%26%20CRM-eb9d00?style=for-the-badge" height="28" /> <img src="https://img.shields.io/badge/Open%20Source-%23121011.svg?style=for-the-badge&logo=open-source&logoColor=white" height="28" />
 
 ---
 
