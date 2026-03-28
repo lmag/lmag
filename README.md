@@ -14,19 +14,17 @@ Dolibarr & WordPress Specialist. Building open-source tools to streamline corpor
 ---
 
 ### 🛠 Tech Stack & Ecosystem
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%26%20CRM-eb9d00?style=for-the-badge)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+![Dolibarr](https://img.shields.io/badge/Dolibarr-ERP%20%26%20CRM-eb9d00?style=for-the-badge) 
 ![Open Source](https://img.shields.io/badge/Open%20Source-%23121011.svg?style=for-the-badge&logo=open-source&logoColor=white)
+
 ---
 
 📍 Based in Montpellier, South of France ☀️
 
 ### 📊 My GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lmag&show_icons=true&theme=radical&hide_border=false" alt="Laurent's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmag&layout=compact&theme=radical&hide_border=false" alt="Top Langs" height="150" />
-</p>
-<p align="center">
-<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=lmag" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=lmag&show_icons=true&theme=radical" alt="Stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lmag&theme=radical" alt="Streak" height="150" />
 </p>
